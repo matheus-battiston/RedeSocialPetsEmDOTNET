@@ -1,0 +1,12 @@
+.containerStyle{
+    background-color: rgba(255,255,255, 0.4);
+    width: 400px;
+    min-height: 300px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid white;
+    height: max-content;
+    align-items: center;
+}

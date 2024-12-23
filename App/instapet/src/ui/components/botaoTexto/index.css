@@ -1,0 +1,29 @@
+.botaoAceitarRecusar{
+    color: white;
+    background-color: transparent;
+    border: none;
+}
+
+.botaoAceitarRecusar:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.medio{
+    font-size: 16px;
+}
+
+.maior{
+    font-size: 20px;
+}
+
+.gigante{
+    padding-left: 30px;
+    color: white;
+    font-size: 30px;}
+
+.botaoAceitarRecusar:disabled{
+    color: grey;
+    text-decoration: none;
+    cursor: not-allowed;
+}

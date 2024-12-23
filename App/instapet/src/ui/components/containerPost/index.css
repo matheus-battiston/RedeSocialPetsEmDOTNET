@@ -1,0 +1,37 @@
+.containerPost{
+    
+    box-sizing: border-box;
+    width: 90%;
+    height: 250px;
+    min-height: 250px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.imagemPost{
+    width: 350px;
+    height: 200px;
+    object-fit: scale-down;
+}
+
+.usuarioLegendaCurtir{
+    color: white;
+    padding-left: 20px;
+}
+
+.fotoNome{
+    display: flex;
+}
+
+.nomePost{
+    padding-left: 20px;
+}
+
+.likes{
+    display: flex;
+    justify-content: space-around;
+}

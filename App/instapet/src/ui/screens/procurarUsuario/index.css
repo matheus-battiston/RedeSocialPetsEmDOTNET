@@ -1,0 +1,33 @@
+.listaDeUsuarios{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.procurar{
+    width: 100%;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.entrada_procura{
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    margin-bottom: 200px;
+    border: 1px solid white;
+    font-size: 18px;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.input_procurar{
+    display: flex;
+    justify-content: center;
+}
+
+.botao_pesquisa{
+    border-radius: 10px;
+    height: 20px;
+}

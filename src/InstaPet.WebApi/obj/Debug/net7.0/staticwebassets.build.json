@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FmOGnfk4rTlOnNP+K4ZTBdqcFK4opIxZEsbUagRaPt8=",
+  "Source": "InstaPet.WebApi",
+  "BasePath": "_content/InstaPet.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
